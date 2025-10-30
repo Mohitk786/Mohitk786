@@ -17,6 +17,6 @@ I am a passionate web developer with extensive experience in various tools and t
 [![](https://visitcount.itsvg.in/api?id=Mohitk786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<script>alert(XSS)<script>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
