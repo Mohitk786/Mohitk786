@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I am a passionate web developer with extensive experience in various tools and technologies, <svg onx=() onload=(confirm)(1)> including React JS, JavaScript, Node.js, MongoDB, HTML, and CSS. My expertise in these areas allows me to build scalable and interactive web applications. I am a lifelong learner who is always looking for new technologies and tools to expand my knowledge and skills. I possess excellent communication skills, allowing me to communicate complex technical concepts to non-technical stakeholders and bridge the gap between technical and business teams. Overall, I am a skilled and versatile web developer dedicated to providing high-quality solutions that meet business needs while maintaining technical excellence.
+I am a passionate web developer with extensive experience in various tools and technologies, <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;\u0061\u006C\u0065\u0072\u0074&lpar;this['document']['cookie']&rpar;">X</a>` including React JS, JavaScript, Node.js, MongoDB, HTML, and CSS. My expertise in these areas allows me to build scalable and interactive web applications. I am a lifelong learner who is always looking for new technologies and tools to expand my knowledge and skills. I possess excellent communication skills, allowing me to communicate complex technical concepts to non-technical stakeholders and bridge the gap between technical and business teams. Overall, I am a skilled and versatile web developer dedicated to providing high-quality solutions that meet business needs while maintaining technical excellence.
 
 
 ## 🌐 Socials:
