@@ -6,7 +6,7 @@ I am a passionate web developer with extensive experience in various tools and t
 <img src="https://lh3.googleusercontent.com/a/ACg8ocJZdyEi-yjPNuqJJhvREFMen29ZsiHLaZeKzMElIj8JpvuY10nK8A=s96-c" onError="{var
 {3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/0wn3d/
 .source)" onload="console.log('Image has loaded.')"    onmouseover="alert('You hovered over the image!')"    />
-
+<img src="javascript:alert('XSS')">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-02b54223a/) 
