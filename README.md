@@ -7,7 +7,6 @@ I am a passionate web developer with extensive experience in various tools and t
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=red)](http://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-02b54223a/) 
-[Link](https://google.com " onmouseover=alert(1) style=position:fixed;top:0;left:0;width:100%;height:100%;display:block; ")
 
 # 💻 Tech Stack:
 [](<img src=x onerror=alert('XSS')>)
