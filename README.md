@@ -29,7 +29,6 @@ Currently building AI-powered tools outside work. Ask me what I'm shipping.
 ---
 
 ## GitHub stats
-
 ![](https://github-readme-stats.vercel.app/api?username=Mohitk786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohitk786&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitk786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -37,6 +36,5 @@ Currently building AI-powered tools outside work. Ask me what I'm shipping.
 ---
 
 ## Find me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-02b54223a/)
-[![LunaCal](https://img.shields.io/badge/LunaCal-000000?logo=calendar&logoColor=white)](https://mylunacal.co)
+
