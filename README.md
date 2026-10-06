@@ -31,4 +31,4 @@ Building **[Tryfx](https://data.whos1.bid)**, a product analytics platform on Cl
 
 ---
 
-Reach me at hi@ringjenny.com
+Reach me at kumarmohit08004@gmail.com
