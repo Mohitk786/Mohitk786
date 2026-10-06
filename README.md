@@ -1,6 +1,6 @@
 ### Mohit Kumar
 
-Software engineer at [Lunacal](https://mylunacal.co). I build backend-heavy products end to end, usually where **AI meets real developer workflows**: webhooks, queues, LLMs, and the boring parts that make them reliable.
+Software engineer at [Lunacal](https://lunacal.ai). I build backend-heavy products end to end, usually where **AI meets real developer workflows**: webhooks, queues, LLMs, and the boring parts that make them reliable.
 
 ---
 
