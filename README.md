@@ -27,7 +27,7 @@ One leaderboard spot. Pay to take it, and anyone can outbid you. A small experim
 
 #### Right now
 
-Building **Trace**, a product analytics tool on ClickHouse, and adding codebase-aware RAG to the PR reviewer: embeddings, hybrid retrieval and Redis-queued indexing.
+Building **[Tryfx](https://data.whos1.bid)**, a product analytics platform on ClickHouse: session replay, user journeys, goals, funnels, custom dashboards, embeddable widgets and team members.
 
 ---
 
