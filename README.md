@@ -1,40 +1,33 @@
-Hey, I'm Mohit 👋
-Software Engineer building products at Lunacal and shipping AI-powered side projects.
-I like taking an idea from “this could be useful” → working product → users.
+### Mohit Kumar
+
+Software engineer at [Lunacal](https://mylunacal.co). I build backend-heavy products end to end, usually where **AI meets real developer workflows**: webhooks, queues, LLMs, and the boring parts that make them reliable.
 
 ---
 
-## What I'm up to
+#### Things I've built
 
-- 💼 Full-time at **[LunaCal](https://mylunacal.co)** — building calendar/scheduling infrastructure
-- 🤖 Actively learning AI/ML — LLMs, agents, RAG pipelines
-- 🛠 Building AI-powered side projects outside work (ships > drafts)
+**[AI PR Reviewer](https://github.com/Mohitk786/ai-pr-reviewer)** · GitHub App · TypeScript, Next.js, Postgres, pg-boss<br>
+Reviews pull requests on open/push and posts inline comments. Webhooks are verified and stored before anything else runs, slow LLM work goes to a separate worker, and every comment the model produces is checked against the real diff lines before it's posted, because one hallucinated line makes GitHub reject the whole review.
 
----
+**[token-bucket-limiter](https://github.com/Mohitk786/Rate-Limiter)** · Express middleware · Redis, Lua<br>
+A distributed rate limiter. The refill-and-decrement step runs as one Lua script inside Redis, so the decision stays atomic across any number of Node processes. No race conditions, no extra lock layer.
 
-## Tech stack
+**[lunacal-mcp](https://github.com/Mohitk786/lunacal-mcp)** · MCP server · TypeScript, Docker<br>
+Lets AI assistants check availability and book meetings on Lunacal through the Model Context Protocol.
 
-**Core**
-`React / Next.js` `TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Redis` `AWS`
-
-**Currently learning**
-`LLM APIs` `RAG pipelines` `AI Agents`
+**[Who's #1](https://whos1.bid)** · live<br>
+One leaderboard spot. Pay to take it, and anyone can outbid you. A small experiment in getting attention for a simple product. Its sibling, [WorldMap](https://worldmap.whos1.bid), lets you claim territory on a map.
 
 ---
 
-## Side projects
+#### What I work with
 
-Currently building AI-powered tools outside work. Ask me what I'm shipping.
+`TypeScript` `Node.js` `Next.js` `PostgreSQL` `Prisma` `Redis` `ClickHouse` `Docker` `AWS` `Azure` `GitHub Apps` `MCP` `LLM APIs`
 
----
+#### Right now
 
-## GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=Mohitk786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohitk786&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitk786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building **Trace**, a product analytics tool on ClickHouse, and working on system design: queues, idempotency, and keeping systems up when the LLM doesn't cooperate.
 
 ---
 
-## Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-02b54223a/)
-
+Reach me at hi@ringjenny.com
