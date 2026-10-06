@@ -1,6 +1,6 @@
 ### Mohit Kumar
 
-Software engineer at [Lunacal](https://lunacal.ai). I build backend-heavy products end to end, usually where **AI meets real developer workflows**: webhooks, queues, LLMs, and the boring parts that make them reliable.
+Software engineer at [Lunacal](https://mylunacal.co). I build backend-heavy products end to end, usually where **AI meets real developer workflows**: webhooks, queues, LLMs, and the boring parts that make them reliable.
 
 ---
 
@@ -22,12 +22,13 @@ One leaderboard spot. Pay to take it, and anyone can outbid you. A small experim
 
 #### What I work with
 
-`TypeScript` `Node.js` `Next.js` `PostgreSQL` `Prisma` `Redis` `ClickHouse` `Docker` `AWS` `Azure` `GitHub Apps` `MCP` `LLM APIs`
+**Product & backend:** `TypeScript` `Node.js` `Next.js` `PostgreSQL` `Prisma` `Redis` `ClickHouse` `Docker` `AWS` `Azure`<br>
+**AI:** `Python` `FastAPI` `LangChain` `LangGraph` `RAG` `Vector DBs` `Neo4j` `Mem0` `Ollama` `MCP` `OpenAI / Gemini APIs`
 
 #### Right now
 
-Building **Trace**, a product analytics tool on ClickHouse, and working on system design: queues, idempotency, and keeping systems up when the LLM doesn't cooperate.
+Building **Trace**, a product analytics tool on ClickHouse, and adding codebase-aware RAG to the PR reviewer: embeddings, hybrid retrieval and Redis-queued indexing.
 
 ---
 
-Reach me at kumarmohit08004@gmail.com
+Reach me at hi@ringjenny.com
