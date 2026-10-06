@@ -30,4 +30,4 @@ Building **Trace**, a product analytics tool on ClickHouse, and working on syste
 
 ---
 
-Reach me at hi@ringjenny.com
+Reach me at kumarmohit08004@gmail.com
