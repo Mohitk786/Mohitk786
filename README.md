@@ -1,6 +1,6 @@
-# Hey, I'm Mohit 👋
-
-Software Developer at **LunaCal** · Building AI apps on the side · Figuring things out in public.
+Hey, I'm Mohit 👋
+Software Engineer building products at Lunacal and shipping AI-powered side projects.
+I like taking an idea from “this could be useful” → working product → users.
 
 ---
 
