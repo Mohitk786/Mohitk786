@@ -27,7 +27,7 @@ One leaderboard spot. Pay to take it, and anyone can outbid you. A small experim
 
 #### Right now
 
-Building **[Tryfx](https://data.whos1.bid)**, a product analytics platform on ClickHouse: session replay, user journeys, goals, funnels, custom dashboards, embeddable widgets and team members.
+Building **[Tryfx](https://trfyx.com)**, a product analytics platform on ClickHouse: session replay, user journeys, goals, funnels, custom dashboards, embeddable widgets and team members.
 
 ---
 
